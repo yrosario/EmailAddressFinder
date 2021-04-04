@@ -1,4 +1,4 @@
-/*This class used to find and email address within a String
+/*This class used to find an email address within a String
 */
 
 package jav.emailaddressfinder;
